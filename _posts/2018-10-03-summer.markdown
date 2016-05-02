@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Skate or classic? That's the question."
+date:   2018-10-03 00:10:00 +0100
+categories: umea
+---
+
+Summer's gone now. 
+
+![Fall]({{site.url}}/assets/fall.jpg){:height="500px" width="720px"}
+
+We did manage to do some good trips while it was warm.
+
+![Bikepacking]({{site.url}}/assets/bikepacking.jpg){:height="500px" width="720px"}
+
+Soon back to skis - two long & skinny reasons for being here.
+
+![XC skiing]({{site.url}}/assets/xc.jpg){:height="500px" width="720px"}
+
+Oh, and more of this as the days get shorter.
+
+![XC skiing]({{site.url}}/assets/aurora.jpg){:height="500px" width="720px"}
+
+Skate or classic? Both. Every. Day.

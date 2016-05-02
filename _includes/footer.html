@@ -2,21 +2,50 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <!-- Default Statcounter code for Jakub's homepage http://jsliacan.github.io -->
+    <script type="text/javascript">
+      var sc_project=11833065; 
+      var sc_invisible=1; 
+      var sc_security="ea88f133"; 
+      var sc_https=1; 
+      var sc_remove_link=1; 
+    </script>
+    <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+    <noscript>
+      <div class="statcounter">
+        <img class="statcounter" src="//c.statcounter.com/11833065/0/ea88f133/1/" alt="Web Analytics">
+      </div>
+    </noscript>
+    <!-- End of Statcounter Code -->
 
+    
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
+	        <li>Purkyňova 111, TPB-B</li>
+	        <li>Red Hat</li>
+          <li>621 00, Brno</li>
+          <li>Czech Republic</li>
+	      </ul>
+      </div>  
+    
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
+	        {% if site.email %} 
+	        <li>
+	          {% include icon-mail.html username=site.email %}
+	        </li>
+	        {% endif %}
+	  
           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
           </li>
           {% endif %}
 
@@ -25,12 +54,28 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+	        {% if site.strava_username %}
+          <li>
+            {% include icon-strava.html username=site.strava_username %}
+          </li>
+          {% endif %}
+
+	        {% if site.gplus_username %}
+          <li>
+            {% include icon-gplus.html username=site.gplus_username %}
+          </li>
+          {% endif %}
+
+          {% if site.instagram_username %}
+          <li>
+            {% include icon-instagram.html username=site.instagram_username %}
+          </li>
+          {% endif %}
+
         </ul>
       </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
+      
     </div>
 
   </div>
