@@ -1,4 +1,0 @@
-<a href="https://www.strava.com/athletes/{{ include.username }}">
-  <span style="white-space:nowrap", class="icon">{% include icon-mail.svg %} </span>
-  <span class="username">{{ include.username }}</span>
-</a>
