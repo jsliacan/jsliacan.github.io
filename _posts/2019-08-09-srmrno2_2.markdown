@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "SRMRno2 pt 2 - training"
+date:   2019-08-09 00:10:00 +0100
+categories: srmr
+---
+
+Apparently, according to Nelson Trees, "being an athlete is not what will win you this race". Not that my ambition is to win (some fast people are coming: James Hayden, Lael Wilcox, Sarah Hammond, Stepan Stransky, etc.). Still, it's good news that fitness is not the only parameter in this race. That said, the complement of that statement is probably also true: being unfit will lose you this race. Certain level of fitness is definitely a prerequisite. The faster you are, the safer you can be, the easier the mental side becomes, and maybe you'll even be warmer at night if you're not completely spent! 
+
+I've never trained for an event this long so my approach is just an educated guess. That too, probably badly executed. Anyhow, here's what my approach was. 
+
+## Approach
+I figured that specific training should be closest to the race (spare your body the shock of adjusting to a new activity during the race). So building a base in January seemed pointless for a long race in August. Moreover, I thought that first building a big engine and then fine-tuning it is better than anyting else. So VO2max sessions were supposed to be furthest from the race. Once I lift the lid on my VO2max capacity, there's space for the lactate threshold to move upwards into the newly created space. Logically, the VO2max training is going to require most rest and deliver least volume. So it didn't clash with the plan to leave the specific training (volume) for later towards the raceday. As soon as I abandoned VO2max training and worked on tempo and longer intervals, the volume went up. I still kept some fartleks & efforts, but didn't do any VO2max efforts. I relied purely on strength intervals and tempos to avoid becoming a high-mileage snail. 
+
+
+## Description by handwaving
+
+# Fall
+
+Last fall I did a lot of running. September to end of November. It consisted of up to 130k in peak weeks. This includes intensity.
+
+1. Easy speed on Tuesdays (think 15-20x 1min ON 1min OFF plus WU and CD)
+2. VO2max (and later Tempo) on Thursdays (think 5-6 x 3min @VO2max with 3min OFF or 40-60min @~170bpm if I was doing tempo; of course, this was padded with WU and CD and some floating)
+3. Long run or progression on Sunday (think 25-35k with last 10k harder and last 5k at roughly marathon/half-marathon pace; for progression I usually did no more than 12-15k starting at 5min/km and finished at 3:30min/km with last 5k  in roughly ~19min).
+
+The rest of the week were recovery & easy runs. Sep to Nov was probably the hardest period of training because I wasn't preparing for the SRMR yet and so it involved a fair amount of intensity. Running also leaves you a lot more beat up than cycling. So I did loads of stretching & rolling during this time.
+
+# Winter
+
+In December, due to injury from running, I swam (a lot for my taste) and walked (or did what I could on icy pavements in Umeå). It was mentally hard. Then the snow came and I could start cross-country skiing (classic) and doing some skimo on the local hill (50m elevation difference from bottom to top). That was great compared to swimming. It was less structured intensity than I did in running, but intensity nevertheless. The XC loop was constantly up & down and if you didn't want to slip backwards, you had to go hard. So every outing was a fartlek! I interspersed it with double poling to make use of a "natural" way of doing core & back exercises. As for skimo, I did repeats on the local hill. Sometimes 15, sometimes 30 in one session. The hill took <2mins and towards the top of each repeat I was at around 170-175bpm. It was good to be on skimos, even if the hill was only 50m high :).
+
+# Spring
+
+Then in mid-March I started cycling - mostly on the road to avoid cleaning my bike after every spin. This was when the proportion of intensity in my training went down significantly. The volume, on the other hand (in hrs), went up. I had some interruptions when I had to travel, but in general weeks had 15+hrs and sometimes 25hrs. I started riding MTB as soon as I could. This brought back intensity, albeit unstructured (hills harder, the rest easier). I did 2 rides a week of more than 4hrs and the rest was 1-3hrs long. On Tuesdays I tried to do short strength intervals (think 1min full ON 1min OFF x 10-15) and on Thursdays I tried to do some tempo (3x 10min hills @165-170bpm). On the weekend I usually did the longest ride, but nothing too long (max 6-7hrs). I mostly built up volume over 3 weeks, then took an easy week, and repeated this 4-week cycle again. Various obligations often disrupted my plans a little. When that happened, I tried to squeeze in more intensity to save time.
+
+# Summer
+
+I continued training mainly on MTB. I also measured my weekly training by altitude gain. The highest hills where I live are <300m in elevation difference, so I went up & down a lot even in one ride. During a week, I'd usually accumulate 7,000m, with <4,000m during down weeks. In terms of hours, the volume was the highest during this period with June & July being almost 90hrs each. 
+
+
+## Some statistics
+
+In total for this calendar year, Strava says I cycled (combined road & MTB) 6,600km with ~100,000m of elevation. I ran ~800km with 21,000m of elevation. Of course, Strava doesn't think skimo or cross-country skiing are legitimate sports, but Movescount says that I did 42hrs of skimo with 19,000m of elevation and 30hrs of XC skiing with 8,000m of elevation. The running last fall was another ~1,100km with ~20,000m of elevation. Now... these are cumulative numbers and they're informative, but they don't capture intensity or form of exercise. For instance, the total number of training hours for running is necessarily going to be much lower than for cycling. Having said this, leading up to the SRMR 2019, I trained ~670h from Sep 2018 to mid-Aug 2019.
+
+## Feelings
+
+I observed that, as opposed to short races (<50k running events), one feels like an obese cow just a week before SRMR. When doing short races, one feels very sharp just before. Lean, swift, jumpy, ready to go. Now, I feel quite undercooked. Like I'll need a day or two to get going. My weight is at 78kg instead of 73-74kg for the running races. Some of that is down to the body shape that MTB induces (a bit more strength compared to running), but some is definitely due to fat. I intended it this way as I expect to lose 5+kgs during the race and I wouldn't want to lose power as well. Still, going by the body shape, I feel almost unprepared. It requires conscious effort to keep it this way.
+
+## Conclusion
+
+We'll see if the training worked. Or maybe not: if it goes well, maybe it was "despite" my training. If it goes badly, maybe it was not because of my training. Still, at least I have a sense of being prepared :).
