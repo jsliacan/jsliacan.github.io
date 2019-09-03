@@ -1,0 +1,260 @@
+---
+layout: post
+title:  "SRMRno2 pt 3 - race report"
+date:   2019-09-04 00:07:00 +0100
+categories: srmr
+---
+
+The race is over and I've learned a lot. So that alone makes the [SRMR](https://www.silkroadmountainrace.cc/) a positive experience. I found others' reports invaluable going into SRMR 2019. Therefore, I write this post with the hope that others will find it useful when preparing for their races/adventures. I chose the following structure:
+
+1. A bit of data.
+2. Day by day breakdown and description of events as they happened to me or around me.
+3. Comments about the gear (I won't do a separate post about the kit).
+4. General remarks
+
+## Data
+
+I uploaded the records to Strava and made them public (should be accessible regardless of whether you follow me or not). Some days I changed devices mid ride so there are two records on those days.
+
+- **Saturday 17 Aug 2019**
+  - [Ride 1 pt1](https://www.strava.com/activities/2630256947)
+  - [Ride 1 pt2](https://www.strava.com/activities/2630236470)
+- **Sunday 18 Aug 2019**
+  - [Ride 2](https://www.strava.com/activities/2630228775)
+- **Monday 19 Aug 2019**
+  - [Ride 3](https://www.strava.com/activities/2647754920)
+- **Tuesday 20 Aug 2019**
+  - [Ride 4](https://www.strava.com/activities/2647709956)
+- **Wednesday 21 Aug 2019**
+  - [Ride 5 pt1](https://www.strava.com/activities/2642123540)
+  - [Ride 5 pt2](https://www.strava.com/activities/2647663436)
+- **Thursday 22 Aug 2019**
+  - [Ride 6](https://www.strava.com/activities/2647641318)
+- **Friday-Saturday 23-24 Aug 2019**
+  - [Ride 7 pt1](https://www.strava.com/activities/2647589080)
+  - [Ride 7 pt2](https://www.strava.com/activities/2647631179)
+  
+I summarise the numbers in the table below
+
+| Ride No | Distance [km] | Ascent [m] | Total time [hh:mm] | Moving time [hh:mm] | HR avg | HR max | Temp min [C] | Temp max [C] | Speed avg [km/h] |
+|---------|:-------------:|:----------:|:------------------:|:-------------------:|:------:|:------:|:------------:|:------------:|:----------------:|
+| 1       | 228           | 4540       | 15:27              | 14:21               | 130*   | 155*   | -5           | 22           | 15.9             |
+| 2       | 258           | 2894       | 15:52              | 13:40               | 118    | 144    | -2           | 29           | 18.9             |
+| 3       | 235           | 3502       | 19:16              | 15:40               | 109    | 138    | -1           | 32           | 15.0             |
+| 4       | 218           | 2589       | 17:28              | 13:59               | 114    | 142    | -3           | 16           | 15.6             |
+| 5       | 250           | 4062       | 19:08              | 16:24               | 111*   | 134*   | -1           | 32           | 15.3             |
+| 6       | 183           | 3299       | 18:07              | 13:40               | 102    | 132    | 5            | 30           | 13.4             |
+| 7       | 358           | 6869       | 38:25              | 28:23               | 107*   | 135*   | 0            | 26           | 12.59            |
+
+The entries with (*) were taken from the first part of the ride because I didn't bother to initialise HR sensor with the second device.
+
+## Day-by-day
+
+### Saturday
+
+Start was at 9am local time at the flag pole south of Bishkek. Everyone rolled in looking professional and like they knew what they were doing. So I just looked at the bikes and the equipment to pass the time. It was also the last time I talked to my Dad. He came with me to Kyrgyzstan and we did a trip up and over Kegety to acclimatise. On the other side of Kegety, we did a hike to 4100m to see if we were handling altitude OK. It was fine, but we felt slow. Anyway, I said goodbye to my Dad and only concentrated on the start. The start was very low key and we were off after a 5-4-3-2-1 countdown. I stayed out of the way of keen riders to preserve my derailleur and all other parts of the bike. Nothing very interesting happened until the snow at the Kegety pass. There was rain on the way to Kegety village, so we all stopped at some point and put the waterproofs on. That was when I caught up with [James Hayden](http://jamesmarkhayden.uk/) and got to talk to him for the first time. It turned out we would talk a fair bit more later. 
+
+Going up Kegety pass was an exercise in patience. Full of excitement and energy, I had to keep my effort low and stay warm. At the bottom of the climb I exchanged a few words with [Luca Petrinka](https://www.instagram.com/lucapetrinka/?hl=en) who seemed fast and composed. I was taking my clothes on and off and he passed me and disappeared. Somewhere around 2500m it started snowing (instead of raining). Which was relatively good because the temperature wasn't much lower than during the rain but I didn't feel so wet. We continued up towards the top and the temperature dropped somewhere to -5C. I put on all my clothes ~200 vertical meters below the pass in order to be able to descend as soon as I reached the pass. The snow and rain froze on my lockout screw on the fork and releasing the lockout didn't actually unlock the fork. Halfway through the descent though, all was OK. By the bottom, I caught up with [Jay Petervary](https://jaypetervary.com/) who was at the front. Then I took off my clothes and got overtaken by [Lieven Schroyen](https://www.strava.com/athletes/22884329). I patiently continued up the second climb. Not much to do, just pedal. I got over the second pass in the evening, but still during light hours. The dark caught me somewhere on the way to Kojomkol village. This was also the section with many angry dogs coming at us from the side of the road. I had to get off the bike a few times to hide behind my bike. Everything else was fine and I made it to Kojomkol around midnight. I knew I wanted to sleep and found a spot just after the village. I checked maprogress and found out that [Lieven](https://www.strava.com/athletes/22884329) camped a bit earlier, which left me at the front of the race. However, other riders were still moving so I assumed that by the morning I'd be somewhere around 5th-10th place.
+
+### Sunday
+
+I slept until 5am and was on the bike by 5:40am (not very quick, I know). I felt OK, weather was looking good, and I had 50k of dirt followed by 50k of asphalt in front of me. Then a climb to Tuz Ashuu and some "flat" bit to CP1. Then another small climb out of CP1 and a great descent to the valley. Then tarmac (with uphill) to Baetov. There were going to be shops on the first asphalt stretch and I needed to top up my sim card in order for my internet bundle to renew. So I had a task in front of me and focused on that. When topping up my sim, I also bought food and a box of juice. I didn't get to finish it because a local man came asking for a sip. So I gave him the almost full box of juice and went. The rest of the valley section before the climb was rather tedious, but at least we were covering distance efficiently. The fun improved when we started climbing. It was quite steep in places and cyclable elsewhere. When I came to the last steep bit, I saw [Jay Petervary](https://jaypetervary.com/) in the distance. I kept my pace (it's a long race) and by the top of the climb, I was a tiny bit in front of him. Then came the flat-but-not-flat section around the Song Kul lake to CP1. I was following a storm the whole time towards CP1, but being slow helped and I never caught up with the rain. Arriving dry to CP1 was a nice bonus. I was greeted enthusiastically by the volunteers and equally enthusiastically by the cameras. This made me suspect that there weren't many riders in front -- there really weren't. The food at CP1 was the nicest of all checkpoints (I think) and was a welcome alternative to snickers, gels, bars, and biscuits. I also bought a bottle of Coke which I greatly regretted later.
+
+I was leaving CP1 shortly after [Jay](https://jaypetervary.com/) arrived. I later found out he had been having stomach problems essentially all race. The route after CP1 went up to another pass (but very little climbing) and then descended down towards Baetov. The descent was rather enjoyable although I had to hurry because some dark clouds with rain were closing in. I made it down dry and it was only 40km on tarmac (flat and some uphill) to Baetov, where I decided I'd sleep (it made little sense to take on the next climb at night as I'd have to sleep in the altitude). 
+
+When I made it to Baetov, I bought some food and a bottle of Sprite. I then went to look for a guesthouse. I was using Komoot route and didn't load the next day's section where the Traveller's lodge was marked as a point of interest. I only saw a billboard with "Guesthouse Eden" and an arrow pointing nowhere. So I asked a few locals but they all knew less than I did. I was almost ready to cycle out of the village and sleep in my bivy (warm night, no rain, low altitude), when I thought I'd ask one last time. The person didn't know so she called her Mum. Mum didn't know about any accommodation in Baetov but suggested that I sleep in their house. A bit unprepared for such offer, I didn't know what to say and I accepted. I'd have a roof over my head and stay warm. I didn't have to unpack my sleeping system which should also save me time. On the other hand, what I was doing was unusual to them so we discussed it for a good while. I went to sleep maybe 1.5h after I arrived there. And that's when I realized that between CP1 and Baetov, I drank the entire bottle of Coke. I forgot it had caffeine. So I didn't sleep at all that night and decided to get up early and go. At 2-2:30am I was cycling again.
+
+### Monday
+
+Shortly after leaving Baetov, I lost the headlamp from the strap. It was attached on little hinges and I wasn't using it when it fell off, so I didn't notice. I needed it a bit later, so I went back searching for it. At some point I had to give up and start cycling in the right direction again. So I gave up on my headtorch. Cycling on no sleep (although a few hours of rest) didn't feel very good. Plus by the time I reached the Chinese highway, I realized I certainly couldn't breathe properly. Whenever I took a medium breath, I started caughing and it hurt all over the chest. I had no idea what it was (I still don't know) and I was very disappointed because it was affecting my cycling. A lot. I stopped right after reaching the highway and I took a nap for 1h - it was sunny, so I just slept in the gutter by the road. I had headwind (like everyone else I assume) all the way that day. The Komoot navigation sent me through a fence at Torurgart (border crossing). While I was trying to resolve this, I visited the actual border checkpoint and had two officers try my bike. Each did a loop and each almost fell when dismounting. However, they eventually advised me to go around the fence from the other side. It worked too. Then later, a few times, Komoot again sent me off into the plains with grassheads and no roads. A bit of an annoying day. Plus the Chinese highway is hands down the most unexciting bit of the route. And long too, 80km. Towards the evening, I managed to get through the main river crossing in the daylight and continue in the dark. A few more river/stream crossings later, the Komoot was sending me off the road into nowhere (no path or road). I followed for a while but then I heard water again. Not trusting Komoot after the long day, I decided to camp. It was around 9:30pm. I was going to wait for the light. While loads of sleep would be good, I was at 3200m and exposed on the plains somewhere without any shelter. I got into my bivy, turned my wet shoes upside down so they dripped as much as possible before freezing in the morning. When I lay down I started coughing really badly. The kind of cough where you also cry involuntarily. However, I coughed out many solid bits and suddenly I could breathe! I coughed a bit more during the night but I was really happy about my situation -- the biggest problem got solved! I could push again because I could breathe. All was ok.
+
+### Tuesday
+
+I woke up many times at night, to cough, to rearrange myself in the sleeping bag so I wasn't cold, to remove the wet bivy from my face, or to check the clock. In the morning though, I got up happy as I could breathe! I packed up the frozen bivy and put on those crusty shoes. I hopped on the bike dressed the way I slept and started cycling. It wasn't long before I stopped to take off the warm clothes and the day started to look good. This section really was off the road and Komoot was right for once. I could have done the section at night and cycled all the way to CP2 and slept in a (presumably) warm yurt. Still, I was happy because I could breathe. I even caught myself doing pick-ups up the hill, to check if the breathing was really restored - it was hard to believe. I noticed that there were some bike tracks in the mud already. So someone underslept me -- no wonder when I stopped from 9:30pm to 5:30am. I got to CP2 at Kel-Suu and went straight to the table to eat. The food was nice and I had no stomach issues afterwards like some people coming after me. I was told that [James](http://jamesmarkhayden.uk/) was 2h ahead of me (would be 3h by the time I left). Still, I needed to dry my sleeping bag from the condensation, so I took my time. Before I left, [Lael Wilcox](https://laelwilcox.com/) came all fresh and grinning! It was nice to see someone talking about the frost on their gear with excitement. I packed up my things and went on. 
+
+The next section was the Old Soviet Military Road, or a "ski slope" if you wish. A black run, to describe it properly. It was a good push and because it was slow going I could see ~30mins behind me. [Lael](https://laelwilcox.com/) and [Jay](https://jaypetervary.com/) were beginning to push up the road when I was 2/3rds up. I didn't really care much, because we all had to catch up with [James](http://jamesmarkhayden.uk/), so that was the target for the day. Top of the hill was around 3700m and the soil was pure peanut butter. It stuck to the tires and got wiped off on the chain stay. It was short though so I didn't do anything about it. The real worry on this Soviet road was the barbed wire and broken porcelaine. I don't know if I punctured -- I either didn't or it got sealed. So in practice, I got lucky and made it to the main road without a mechanical. Then began the boring slog towards Naryn. We had to pass two border zone checkpoints. As before, they wanted to ride my bike, and it took them time to figure out that they should let me through. I can only imagine how long it took for [James](http://jamesmarkhayden.uk/) who was ahead of me. But once you get through, you forget the trouble very quickly because the washboards keep you busy. There was nothing particularly interesting all the way to Naryn. When I arrived I spotted [James](http://jamesmarkhayden.uk/) ready to leave. He was freshly fed and (therefore?) happy. We said goodbye and I went looking for snickers & kitkats. I also bought some bread and veggies to eat on the road out of Naryn. I did a [Lael](https://laelwilcox.com/) and put french fries straight into my top tube bag. Felt pro! They had no salt so the bag is only oily, not salty. I guess I can't be as cool as [Lael](https://laelwilcox.com/) without practice. I was on my bike again maybe 30mins after [James](http://jamesmarkhayden.uk/). I also met a dotwatcher there, who was travelling through Kyrgyzstan and decided to meet one of the dots on the tracking page. It was nice to have a chat!
+
+I didn't feel particularly enthusiastic about cycling anymore that day, and the progress was slow. When I was somewhere in some canyon with loud water that I couldn't see, I decided to park and sleep. I did my routine: coughed out the solid bits to relieve breathing, ate some salted peanuts, and went to sleep. I slept some 5hrs that night. It was pretty warm and the sleep was good. 
+
+### Wednesday
+
+I rolled up my wet sleeping bag and bivy, packed it away and started cycling. I decided to go slow but stop very little. I knew the Ara-bel valley was long, but I didn't suspect it would be so slow-going. The grass and rocks were bumpy and the progress seemed slow against the vast views in front of us. I caught up with [James](http://jamesmarkhayden.uk/) towards the end of the valley. I couldn't see him until I was almost next to him because the path was winding and most of it was always hidden from view. It was nice to talk to someone and [James](http://jamesmarkhayden.uk/) shared a lot of knowledge about the course with me. It was very generous from him, and it helped me going up Ton pass and Shamsi. He also told me a fair bit about ultra racing in general. I'm absolutely sure that I learned more from him that day than he learned from me. Cheers for that [James](http://jamesmarkhayden.uk/)!
+
+When we arrived at the final zig-zags of the valley, I stayed on the bike while [James](http://jamesmarkhayden.uk/) decided to push. Cycling turned out to be faster and I found myself with a small gap on top. I put on a jacket and decided to continue as it was chilly. The plateau was quite fast rolling and we quickly descended to CP3. [James](http://jamesmarkhayden.uk/) arrived in no time and I didn't have to eat alone. Being efficient as hell, [James](http://jamesmarkhayden.uk/) left CP3 before me. I packed my half-dry sleeping bag and was on my way some 10-15mins after him. I caught up with him on the next climb and after a short chat I decided to go ahead. He was way better at managing sleep and the past two days I had to close a gap every day. It was a good idea to go ahead to make the gap smaller tomorrow morning. I planned to sleep at the bottom of the descent before the Ton pass climb. I knew he wouldn't sleep too high up the climb, so that should have been a gap of <1h in the morning. Seemed closable, so I was happy. 
+
+
+### Thursday
+
+Unfortunatelly, when I woke up the next morning and checked the tracking page in the village, I found out that [James](http://jamesmarkhayden.uk/) backtracked some of the route. There was a post from the organizers that he had an "incident" and that he was OK. More info to come later, they wrote. Puzzling, but nothing I could do about it. So I continued into the area without internet access. It is a pity that an externality like this affects the race. [James](http://jamesmarkhayden.uk/) was certainly animating the race and it would have been great if it played out in peace. Now that's for the next time I guess. 
+
+Ton pass was alright, I even felt reasonably awake up in 4000m. Descent to the other side was labourous, but I liked it because I believed that others would find it more annoying. There was one stream crossing which was quite wild. Just before descending to the valley floor, we had to cross a stream which was fast flowing and relatively deep. I spent a bit of time there to find a good place to cross. Then I continued down the valley to fight the headwind for the rest of the daylight hours. I followed a few storms and when I got close to one, I decided to sleep for 2hrs and wait until it goes away. I slept under a bridge on the last climb before the descent to Kochkor. When I woke up, the wind was gone and I quickly got over the hill. Then it was dark and I took it easy all the way to the intersection cafe, where I slept.
+
+Just before the intersection though, I went to my seat bag to get the gloves (I packed them away with sleeping bag when I took a nap, mistake). I noticed that my tracker was off! I kept it on top of the seat bag and at night I could see it blinking through the bag. I couldn't see anything now and got worried that I'd receive a penalty or something. I thought it was batteries at first, but those should last 7+ days and this was only 4th-5th day. I simply turned it on and it worked. I still don't know why it was off and when it got turned off. I made my Strava records public for all days, so it should be OK. I'm sorry though, as others couldn't really use the info about my position to inform their decisions during the race. That's not nice.. I was very careful with my tracker for the rest of the race. 
+
+### Friday-Saturday
+
+I woke up around 5am and started riding around 5:30am towards Kochkor. It was on tarmac and progress was fast. When I got to Kochkor I went to a few shops to restock on food and some juice. I took off clothes and got ready for the Shamsi climb. I checked the tracking page and saw that [Lael](https://laelwilcox.com/) was some 15km behind me -- quite a contrast to 80km when I went to sleep. At moments like these, I regretted sleeping so much :). I knew I should get a gap over Shamsi and the three bonus climbs to feel comfortable before the finish. So I rode with focus for all of the daylight hours that day. Shamsi was on-and-off the bike a lot, with the final scree section entirely off the bike. I had good weather and got over the pass relatively easily. It was fun and easy on the body (on and off the bike helps avoid sores). I was caught by a storm at the very bottom of the descent from Shamsi, but it wasn't long so I mostly spent time putting on and taking off clothes. The peanut butter hill was a solid climb. Worth more than half of Shamsi, I'd say. The dogs on top made me grateful to be there during the day. I spent the next climb in another storm and then gentle rain. The third climb was pretty quick albeit steep. The dark caught me halfway through the descent to the main road. Just in time. I checked the tracking page and saw that [Lael](https://laelwilcox.com/) was at the bottom of the first bonus climb. It took me 5+h to get to the road from there and she was going to do it in the dark. I knew I had a comfortable gap, as I wanted. It was important to ride safely and conservatively now. 136k left to the finish.
+
+I bought some bread at a restaurant by the main road and went on to ride the Chon-Kemin valley. This was when I started pondering riding through the night without any sleep. It seemed exciting to try to do the 356km and 6700m of elevation in one ride. I was also curious about how it is to ride nonstop for so long. So I told myself that I'll go till the finish.
+
+Towards the beginning of the Chon-Kemin valley, Komoot was sending me off the tracking page. I became suspiciuos of the route when I deviated from the main road and started riding through blocked side roads at the back of the village. I had a pretty bad experience with navigation during the previous days too, but this was quite something. So I checked the tracking page (luckily there was signal there). I saw that I was off the route. I had the GPX file on my device too, so I switched to that - just to see if all routes sent me through the dug up back alleys with angry dogs. Luckily, the other route was aligned with the route on the tracking page. So I backtracked and rejoined the main road. The problem was solved. Time wasted: not so much. All good. 
+
+Around 3-5am, the riding got pretty tough. A fair bit of loose gravel combined with lack of sleep made for a slow going section. I was literally falling asleep on the bike! At that point, I wished I hadn't decided to ride all the way to the finish. But I did, so I continued. When the sun came out, it got easier. At around 9-10am I was at the turn-off to Kok-Airyk pass. The final 1000m ascent before the finish. Little did I know that this would be the slowest 1000 vertical meters in the race. The gradient was rideable, but surface wasn't. it was a lot of loose rock and rockfall all over the road. So I ended up pushing a lot of the rideable gradient. I was lucky to see the pass in a snow storm, rain, and sun! Given that I spent a lot of time there, it's not surprising that the weather changed a few times :). There was snow on the ground on top, but the air wasn't too cold. The other side of the pass was similarly unrideable. It was on and off the bike for a good while before I could ride the rest of the descent. Luckily, I was getting cold in the rain roughly at the same rate as I was descending into warmer air, so I never really got cold! I thought that was magic. 
+
+When I got to the main road, I took off rain clothes and patiently cycled to the finish watching my back in the traffic. 
+
+It was a very nice race. Thanks to all the volunteers and organizers for the experience. 
+
+## Gear
+
+I had to buy my gear like most of the riders. So I arrived at the list below after considering functionality, accessibility, and budget constraints. Maybe I'd have chosen different equipment if I could. Maybe not. Either way, this is what I carried.
+
+### Bike
+
+- Merida Big.Nine XT (2017). Exactly as it was in the catalogue, except for the wheels.
+- Wheels: Mason x Hunt Search 29 MTB Dynamo Disc (SON28 dynamo)
+- Bar ends on the inside of brake levers
+- Little fender on the front wheel
+- Giro Rumble VR bike shoes
+
+### Electronics
+
+- Sinewave Beacon light (light + charging)
+- Wahoo Elemnt (navigation + recording)
+- Wahoo Elemnt Roam (navigation + recording)
+- 20,000mAh battery bank
+- Smartphone
+- Exposure TraceR light
+- Lezyne back blinking light (not rechargeable; just backup)
+- Petzl Reactik headtorch
+- HR belt
+- GoPro (didn't use, wouldn't take again)
+- Cables (USB to USB-C, USB to micro USB x2)
+- Wall charger (for the phone)
+- GPS watch (Suunto Ambit2)
+
+### Sleeping
+
+- Sea-to-Summit Spark II
+- Outdoor Research Helium bivy
+- Klynit Inertia X Lite sleeping pad
+- Merino socks
+- Down vest
+- Thick cycling pants (CX warm-up pants)
+
+### Waterproofs
+
+- Haglofs glove GTX mits
+- GTX active Adidas jacket
+- Inov8 waterproof running pants
+- Sealskinz WP socks
+- Overshoes (not so waterproof)
+
+### Riding clothes
+
+- All waterproofs above 
+- Bibs & jersey
+- Arm & leg warmers
+- Merino socks
+- Headband
+- XC skiing gloves (Hestra)
+- Gel gloves (?Specialized?)
+- Black Diamond primaloft jacket - thin
+- Glasses
+
+### Hydration
+
+- 4 x 0.5L Salomon soft flask
+- 1x 0.25L Salomon soft flask
+- 1x 2L Camelbak bladder
+
+### Bags & packs
+
+- Ortlieb Frame pack (the bigger one, 6L?)
+- Apidura Backcountry Saddle pack (biggest one I think, 17L?)
+- 2x Apidura racing top tube pack (1L each)
+- Salomon S/LAB vest 12L (model from ~2yrs ago)
+
+### Food
+
+- Homemade musli (600g+)
+- Clif chocolate gels (many)
+- Clif chewy blocks (many)
+- Enervit gels (orange)
+- Enervit power bars (many)
+- Salted+roasted peanuts (2x)
+- Nut & berries mix (6x)
+- other bars to fill the frame bag
+
+### Hygiene etc.
+
+- Sunscreen (50spf)
+- Labello (against sun)
+- Water purifying tablets for 75L
+- Toothpaste
+- Toothbrush
+- Wet wipes
+- Chamois cream
+
+### Repair kit
+
+- tubes (2x)
+- patches (6x), glue, sandpaper
+- self-adhesive patches (4x)
+- SPD cleats (2x)
+- chain breaker
+- pliers (with other features like knife, etc.)
+- hex keys for my bike (individual)
+- torx keys for my bike (individual)
+- spoke key
+- tire levers (2x)
+- quick links (3x)
+- chain section (6 double links)
+- AAA batteries (4x, for the tracker)
+- mech hanger
+- tubeless worms & kit
+- needle & thread
+- rear light rubber band (one broke just before the race)
+- cable end caps
+- shifting cable
+- zip ties of diff sizes
+- sleeping mat patch kit
+- chain oil, toothbrush, rag
+- pump
+- gorilla tape
+- valve core
+- spare spokes (1+1+1)
+- brake pads (resin, 3 pairs), 1x spring, 1x pin
+
+### Other
+
+- Lifesystems First Aid kit (waterproof version)
+- Aluminium emergency blanket
+
+
+## Remarks
+
+1. I will only rely on a GPX route provided by the organizers. No 3rd party sync options like Komoot. It caused me considerable trouble during the race. Komoot alters your route when you upload it, without warning. I speculate that this could have led to the differences between GPX file and the Komoot route.
+2. I will take a lighter bivy, without a pole.
+3. I will not take overshoes again.
+4. I will take less food, resupply was pretty good.
+5. I will take warmer gloves.
+6. I will drop one top tube bag.
+7. Would be good to have glasses with photochromatic lenses to ride in the dark.
+8. I'd probably take a waterproof seat bag, for simplicity of packing in the mornings.
+9. I wouldn't take a sleeping mat, or only the torso version.
+10. I'd take a down vest without a hood (there's a hood on the synthetic jacket).
+11. I'd only take 1 spare SPD cleat.
+12. I wouldn't take a patch kit for the sleeping mat.
+13. I wouldn't take spare spokes.
+14. I would only take 1 pair of spare brake pads (I'd stick with resin). 
+15. I would take no toothpaste (if I really want it, I can buy it that day in a shop)
+16. I wouldn't take a GoPro.
+17. I would find a lighter jacket (but still GTX)
+18. I would come fitter, hopefully.
+19. I would learn how to sleep less, if possible.
+20. I would consider taking a full-suspension bike if I had a choice. I'm not sure about this one, but Ara-bel valley is an example where suspension would make you faster, same for bonus climbs or the section after the Chinese highway. That said, it was my front fork that got jammed on the 3rd day... So reliability might trump suspension.
+
+I am pretty sure I forgot to mention some thoughts I had. If you have suggestions about what to add, please email me (see the homepage for the email contact). I might also write a separate post answering some of the questions if I get enough of them.
+
+I hope you found this post useful. 

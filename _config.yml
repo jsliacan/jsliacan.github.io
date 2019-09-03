@@ -14,8 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 github_username:  jsliacan
 linkedin_username: jsliacan
-gplus_username: +JakubSliacan
-#strava_username: sliacan
+#gplus_username: +JakubSliacan
+strava_username: sliacan
 instagram_username: jsliacan
 
 production_url : http://jsliacan/github.io
