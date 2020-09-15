@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Brno (CZE) - Dresden (GER) bikepacking route"
+date:   2020-09-15 00:13:00 +0100
+categories: routes
+---
+
+Recently, I cycled to my sister's wedding in Dresden (Germany) from my place in Brno (Czech Republic). I made sure the route was a bit hilly and included off-road sections that ask for a mountain bike. The route wasn't too bad in the end, and the two cities are well connected by train. This makes the trip into a good bikepacking route: travel to one end (e.g. Brno) around mid-day and head out; finish at another end (e.g. Dresden) around mid-day and take a train back to Brno (if you left stuff there, or have a connection from there). It can be as short as a 3-4 day trip including travel if you're from a nearby part of Europe. 
+
+## Route description
+
+You can find the route on [RideWithGPS](https://ridewithgps.com/routes/33930485). The description aims to convey all the important information. This text is only a better formatted (and more chatty) version of the same. 
+
+The route aims to take in the following areas: 
+- Moravský Kras
+- Orlické Hory
+- Ardšpach
+- Krkonoše 
+- Jizerské Vrchy
+- Lužické Vrchy
+- České Švýcarsko (Sachsische Schweiz)
+
+They are all pretty famous and sought by hikers/cyclists. Krkonoše is overhyped, but has the hardest climbs (sadly, most of them asphalted; almost no cars though). Orlické Hory contain many military bunkers and other war residuals. Climbs are good but many on tarmac (next to no cars). Adršpach is just lovely cruising, with some steep and bouldery sections on sandstone. Moravský Kras is pretty short, and quite early in the ride. You'll go through a nice gorge by Macocha cave (bookings weeks ahead, no hope of going in unless arranged ahead). Jizerské and Lužické Vrchy offer a nice offroad riding. Sachsische Schweiz is pretty touristy but nice in a similar way to Adršpach. You'll go through gorges with sandstone walls. In the end, you'll roll into Dresden on a boring but safe Elba radweg. 
+
+There are 2 or 3 sections which take the bikepark trails on the way down. If your bike isn't overly loaded, this is pretty fun. Watch out for some gaps even on blue lines :). 
+
+The route was designed to be ridden between Friday afternoon and Monday lunchtime (3 sleeps). I only rode during daylight hours (late Aug/ early Sep) apart from a few kilometres in the dark with the front blinking light. In this form, it is a fairly hard ride: Day 1 (114km, +2250m), Day 2 (210km, +4350m), Day 3 (214km, +5200m), Day 4 (67km, +780m). If you're willing to ride at night and you have a light, it will be more manageable. Steep climbs and some techy sections make the progress slow at times. 
+
+I'm not sure how to accurately/fairly describe the difficulty. I wouldn't like to trivialize the ride, but it isn't anything enormous either. That said, I did eat on the bike and only stopped to resupply and have Kofola :), and for 1h lunch on Saturday; Plus occasional photos. You can see my ride on Strava: [Day 1](https://www.strava.com/activities/3990391330), [Day 2](https://www.strava.com/activities/3990388345), [Day 3](https://www.strava.com/activities/3990384408), [Day 4](https://www.strava.com/activities/3990386366).
+
+## Overview
+
+- **Distance**: 600km
+- **Elevation**: +12500m/-12500m
+- **Surface**: More tarmac than I hoped (Krkonoše and Orlické Hory are surfaced with tarmac pretty much everywhere you're allowed to cycle). In total 50:50 or 60:40 (in favour of off road). Some off-road sections are proper MTB, some force you off your bike, and some are easy gravel. 
+- **Resupply**: Plenty of shops and "hospůdky" along the way. Beware of shops being closed in Germany on Sunday. Also, some Czech seven-elevens are open from 7am to 11am (don't let your preconceptions fool you, this is the right interval). Make sure you try some beer (if that's your thing) and Kofola from draft. Avoid buying things in "Bouda"s in Krkonoše -- a 25czk Kofola will cost you 50czk and more.
+- **Sleeping**: As far as I know, it is not allowed to wild camp in either CZE or GER. However, emergency bivy is allowed in both. So... If you choose to sleep outside, crash somewhere in a ditch well after dark. You should be fine. If you're on pace, you can sleep under a roof every night (3x). First campsite is very friendly and costs 120czk/night/person. They have an outdoors roofed area in case you're not carrying a tent. The remaining sleeps are roofed and free. If you're off pace, watch out for feeders on the way. Often you can sleep in them to stay dry.
+- **Bike**: I took a hardtail with 32/42 easiest gear. The gear was just easy enough and I still hiked a few short sections. Any offroad bike will do as long as you don't mind walking more.
+
+## Tips
+
+- [Mapy.cz](www.mapy.cz): You might want to use this on your phone as a back-up. Free offline maps with a "hiking/Outdoor" layer. I use them for almost everything anywhere in Europe (even in New Zealand). 
+- Trains between Dresden and Brno run multiple times a day and many require no change in Prague (even if it says you have to change, they just change the train number -- you can stay where you are!).
+- Trains take 6-12 full-sized bikes (no need to box your bike). You can see your bike from where you're sitting (or almost). Make sure you board the right carriage on the correct end.
+- Book trains on [cd.cz](www.cd.cz) (they also have an app). Cheaper than Deutsche Bahn. Also, if you're travelling in a group, it automatically gives you discounts as you add people to the ticket.
+- Many places in CZE won't take cards. So if there's a shop where they do take a card, and you're running out of cash, ask for cashback -- they're allowed to give you up to 3000czk = ~110eur, iirc. 
+
+## Contact
+
+If you have questions or suggestions, do email me and I'll update the post. Thanks for your input/interest. Happy riding!
+
+
+

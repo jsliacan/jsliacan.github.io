@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SRMRno2 pt 1"
+title:  "SRMRno2 pt 1 - intro"
 date:   2019-06-25 00:10:00 +0100
 categories: srmr
 ---
