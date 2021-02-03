@@ -5,6 +5,10 @@ permalink: /talks/
 use_math: true
 ---
 
+ * 2020, *Code-ready Containers*, TESTSTACK podcast [[video]](https://www.youtube.com/watch?v=R8jSEFzEi0g)
+ 
+ * 2019, *Silk Road Mountain Race interview*, podcast with Scotti & Ernie Lechuga and myself, SRMR2019 E10 [[podcast]](https://www.podbean.com/ew/pb-43z25-bdec43)
+
  * 2018, *Well-behaved $1\times n$ permuation grid classes*, Seminar 18451, Schloss Dagstuhl, Germany [[slides]]({{ site.url }}/assets/Dagstuhl18talk.pdf)
  
  * 2018, *Some $1\times n$ generalized grid classes are context-free*, Permutation Patterns 2018, Dartmouth College, USA [[slides]]({{ site.url }}/assets/PP18talk.pdf)
