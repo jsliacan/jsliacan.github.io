@@ -20,10 +20,14 @@ I like long runs in the mountains, preferably with many technical parts and a lo
 * [Peak Skyline](http://www.peakskyline.co.uk): a 47k loop in the south-west part of the Peak District. It is a well-organised small race (150 participants). The course is quite technical underfoot but very runnable. It also takes in 2000m of ascent.
 * [Non-stop run through Low Tatras](http://nonstopbehnt.sk/): only 45k long, but follows a mountain range with great views if weather plays along. Very runnable up to a few steep ascents (2400m in total).
 
-I once tried to run the [Peak District North-to-South](http://www.strava.com/activities/142296718), but I quit in Heathersage after 67K. So that's still a project I'd like to do. Other logical runs that I'd like to do in the UK include crossing Brecon Beacons West-to-East, and completing [Bob Graham Round](https://en.wikipedia.org/wiki/Bob_Graham_Round) in the Lake District. 
-
 # Cycling
 
-I recently tried an _ultra-endurance bikepacking_ offroad race and liked it a fair bit. The [Silk Road Mountain Race](https://silkroadmountainrace.cc) is supposed to be relatively tough compared to other races on offer. This makes it interesting, along with the fact that it takes place in the mountains of Kyrgyzstan. It's not a gravel race, and that's a good thing. Offroad sections are often proper MTB and sometimes even hiking. Altitude only increased the difficulty. It's a mixed race of sorts. Visit my [race report](http://jakubsliacan.eu/srmr/2019/09/03/srmrno2_3.html) to read a lengthy version of my experience. 
+**Done**
+* [SRMR](https://silkroadmountainrace.cc): in 2019 I tried this _ultra-endurance bikepacking_ offroad race and liked it a fair bit. The Silk Road Mountain Race takes place in the mountains of Kyrgyzstan (vast and high). It's not a gravel race, and that's a good thing. Offroad sections are often proper MTB and sometimes even hiking. Altitude increases the difficulty (up to 4000m). Visit my [race report](http://jakubsliacan.eu/srmr/2019/09/03/srmrno2_3.html) to read a lengthy version of my experience. 
 
-I heard there are races like _Colorado Trail Race_ (CTR) in the US or _Highland Trail 550_ (HT550) in Scotland which could be interesting. The _Tour Divide_, of course, is a race that I'd probably try to do once. It's different from SRMR, CTR, and HT550, but it's like _The Western States Endurance Run_ of cycling, so it's attractive for that reason. Then there's _Navad1000_ in Switzerland, which sounds interesting for the climbing in it. And of course, I might have a go at a few FKTs. 
+**Maybes**
+* [HT550](https://highlandtrail550.weebly.com/): I'll try to do this loop in Scotland in 2021.
+* [AMR](https://atlasmountainrace.cc/): tempting for the cycling, although looks a bit too much like a gravel race. Not sure about the culture (and the fact that the place is not that friendly to participating women). Maybe 2022.
+* Bohemia Divide: sounds like a nice 3-day effort across Czech Republic. Racing through places I know from some time ago could be a nice feeling.
+* Slovakia Divide: I hear something to this effect is in preparation. Doing a race where I rode the bike as a kid would be unique. 
+* [Tour Divide](https://tourdivide.org/): seems to be the original one. Conflicted about taking part after the 2019 events. They left bitter taste. Maybe I'll do one run at some later point.
