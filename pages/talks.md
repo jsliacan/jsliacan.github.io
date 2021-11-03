@@ -5,7 +5,7 @@ permalink: /talks/
 use_math: true
 ---
 
- * 2020, *Code-ready Containers*, TESTSTACK podcast [[video]](https://www.youtube.com/watch?v=R8jSEFzEi0g)
+ * 2020, *CodeReady Containers*, TESTSTACK podcast [[video]](https://www.youtube.com/watch?v=R8jSEFzEi0g)
  
  * 2019, *Silk Road Mountain Race interview*, podcast with Scotti & Ernie Lechuga and myself, SRMR2019 E10 [[podcast]](https://www.podbean.com/ew/pb-43z25-bdec43)
 
