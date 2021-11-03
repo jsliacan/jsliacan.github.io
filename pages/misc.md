@@ -23,11 +23,12 @@ I like long runs in the mountains, preferably with many technical parts and a lo
 # Cycling
 
 **Done**
-* [SRMR](https://silkroadmountainrace.cc): in 2019 I tried this _ultra-endurance bikepacking_ offroad race and liked it a fair bit. The Silk Road Mountain Race takes place in the mountains of Kyrgyzstan (vast and high). It's not a gravel race, and that's a good thing. Offroad sections are often proper MTB and sometimes even hiking. Altitude increases the difficulty (up to 4000m). Visit my [race report](http://jakubsliacan.eu/srmr/2019/09/03/srmrno2_3.html) to read a lengthy version of my experience. 
+* [SRMR](https://silkroadmountainrace.cc) - I wrote a [race report](http://jakubsliacan.eu/srmr/2019/09/03/srmrno2_3.html). 
 
 **Maybes**
-* [HT550](https://highlandtrail550.weebly.com/): I'll try to do this loop in Scotland in 2021.
-* [AMR](https://atlasmountainrace.cc/): tempting for the cycling, although looks a bit too much like a gravel race. Not sure about the culture (and the fact that the place is not that friendly to participating women). Maybe 2022.
-* Bohemia Divide: sounds like a nice 3-day effort across Czech Republic. Racing through places I know from some time ago could be a nice feeling.
-* Slovakia Divide: I hear something to this effect is in preparation. Doing a race where I rode the bike as a kid would be unique. 
-* [Tour Divide](https://tourdivide.org/): seems to be the original one. Conflicted about taking part after the 2019 events. They left bitter taste. Maybe I'll do one run at some later point.
+* [HT550](https://highlandtrail550.weebly.com/)
+* [AMR](https://atlasmountainrace.cc/)
+* [Tour Te Waipounamu](https://www.tourtewaipounamu.co.nz/)
+* [Hope1000](http://www.hope1000.ch/index.php)
+* [CTR](https://jwookieone.com/colorado-trail-race/)
+* [Tour Divide](https://tourdivide.org/) maybe eventually.
