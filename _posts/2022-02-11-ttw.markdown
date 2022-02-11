@@ -1,0 +1,144 @@
+---
+layout: post
+title:  "Tour Te Waipounamu 2022 - race report"
+date:   2022-02-11 00:07:00 +0100
+categories: ttw
+---
+
+I find others' race reports useful, so here is my contribution after Tour Te Waipounamu 2022.
+
+1. Data summary
+2. Day by day story
+3. Gear
+
+## Data
+
+_No links to Strava because route contains sections through private land and we were asked by the organizer not to share those publicly. I like transparency, but I had agreed to the rules before taking part in the race._
+
+| Ride No | Distance | Ascent | Total time | Moving time | HR avg | HR max | Temp min | Temp max | Speed avg |
+|         |    [km]  |  [m]   |  [hh:mm]   |   [hh:mm]   |  [bpm] |  [bpm] |    [C]   |    [C]   |   [km/h]  |
+|---------|:--------:|:----------:|:------------------:|:-------------------:|:------:|:------:|:------------:|:------------:|:----------------:|
+| 1       | 387           | 5304       | 19:03              | 18:09               | 131    | 170    | 12           | 36           | 21.5             |
+| 2       | 163           | 4168       | 18:16              | 14:58               | 117    | 156    | 8            | 39           | 11.4             |
+| 3       | 240           | 4557       | 18:18              | 15:42               | 111    | 143    | 6            | 34           | 15.6             |
+| 4       | 198           | 3660       | 16:30              | 13:11               | 109    | 140    | 3            | 36           | 15.2             |
+| 5       | 342           | 4168       | 31:20              | 20:26               | 103    | 139    | 0            | 22           | 16.9             |
+
+## Day-by-day
+
+### Sunday
+
+The day began with packing wet sleeping gear into the seatbag and eating as much as I could from the "real" food I had bought the day before. I asked random nice people with a truck to dispose of my rubbish (camping site has a policy of taking your own rubbish out). Then we lined up for the start. Short chat with others and we slowly made our way down to the gravel road. Then it was just staying clear of other riders and hiding from the wind all the way to Colingwood (Thanks [Mojo](https://www.instagram.com/mojo_ian_davidson/) for pulling huge turns at the front). The beach section was fun - finding a line that wasn't too slow and at the same time trying to avoid sand in the drivetrain. The road section to the first big climb, Rameka, was tedious but went by fast enough. The climb itself was very nice though. A zig-zag singletrack almost all the way up. That's where I caught up with Mojo and later with [Steve](https://www.instagram.com/halligan.steve/). I then rode with Steve basically to Tapawera (resupply town) where we had a dotwatcher waiting for us - I don't know your name, but thanks! [Martin Strelka](https://www.instagram.com/martinstrelka/?hl=en) came from Nelson for a chat too and he rode with us on the little bikepath stretch out of Tapawera (was good to meet you!). From there, I went a bit ahead to get a gap before we'd all stop for sleep. There were a few climbs in the way - nothing major - but it was quite sunny & hot. Next resupply town, Murchinson, was just before sunset. At this point I was finding it quite hard to sit, and started wondering about the next day with such anoying saddle sores, it felt a lot like a road rash... From here till Boyle Lodge where we slept, the riding was quite straightforward except Dredgeville. That's a private land section with no obvious path, a bunch of gates with elecricity through them (got stung). At the same time, the GPS route on your device is very roughly interpolated, so helps very little when you're choosing between two paddocks. Unless you remember the course description of this section, you'll be spending a fair amount of time going back and forth trying to find a way through bushes and tall grass. After this though, it is tarmac all the way to Boyle lodge.
+
+I arrived to the crossroads by the lodge and set up my sleeping in the little shelter right there by the road. However, as I was falling asleep, a car arrived. The driving was quite unusual, one could already tell by the sound as they were approaching. Then two people jumped out of the car maybe 15 meters away from me and had a very solid domestic. Unsure if they saw me, I just kept watching. When they took a breather, they noticed me and felt the need to check on me: "You okay mate?". When they left soon after, I moved my sleeping to the bushes nearby to avoid similar forms of bother later at night.
+
+### Monday
+
+I think I was on the road by 6:30am and a very slow singletrack (roots & rocks) began soon after. Around km 20 I passed Hope Kiwi lodge and met [Patrick Garceau]() getting ready to sleep (he rode through the night). After a while I caught up with Steve and we took it easy for the rest of the singletrack and pre-Dampier hills. On the HAB climb to the saddle of the day, I went a bit ahead to be able to sleep longer at night. The descent from the saddle was a fair carry for a while, then a clumsy singletrack down to the valley. From there, it was up and down on a double track until we left the private property. The rest was in the dark, but it was easy riding on the roads until the singletrack around km 545. The beginning of the singletrack was a riverbed and a very approximate gpx file did not help much to get an idea of what's going on (in the dark). Soon enough though, a well maintained singletrack peeled off to the side and was all rideable. I slept somewhere on this singletrack at a rest stop shelter by the road. The sleep was very good that night.
+
+### Tuesday
+
+I woke up quite fresh and not at all cold. The singletrack that I ended the day on continued for a good while in the morning. It was way faster though in the daylight. Vittoria Mezcal tire marks on the ground meant that Steve was ahead (or anyone else really, since this seems to be the tire of choice of almost everyone in the race :) ). Once the singletrack ended, it was a paved road for a bit and then onto a gravel section around a couple of lakes. I found Steve further down the road patiently shepparding a flock of sheep down the road. We rode to Methven together. I hadn't sent anything to Boyle lodge, because it didn't seem like such an advantage compared to stocking up on food in Murchinson (or even Tapawera if we were off pace). Either way, Methven was the first resupply after Murchinson for me and I bought an obnoxious amount of food. Just as well, because I was eating strong on the next stretch. I rode the section to the bottom of the Mesopotamia valley together with Steve. It was around here that I started hearing loose spokes in my front wheel and I had to stop a few times to figure out what it was. From this point onwards, I was stopping regularly to tighten this or that spoke as I rode. It turns out that carbon wheels behave a bit differently to aluminium, so it took me a while to find balanced spoke tension. It finally happened two days later after Otematata. Anyway, as Steve decided to sort out his feet when we stopped to refill water, I continued ahead thinking I'd at least sleep longer again if nothing else. On the stretch to Mesopotamia I met a dotwatcher cycling in the opposite direction -- thanks for the cheers! Soon after, I met Clare Alder with (I assume) Mesopotamia station custodians and had a short chat, then it was back to riding. The climb after the start of Mesopotamia was nicely rideable (just!) and seemed to go by quite fast. The next climb to Bullock Bow saddle was a classic hike-a-bike section. Conveniently pushable climb, not too long, not too short. Very nice. The descent to the Royal Hut was relatively painless, although tussocks started to play a small role. At the Royal Hut I decided to do the Stag saddle that same day. It was only 8pm or so and the hut was full. Besides, doing the climb right away meant that either Steve would have to do it in much tougher conditions (in the dark) or he'd have a pretty long break at Royal Hut and "waste" some time. Both options seemed to favour me as I still expected to sleep just after midnight -- a normal riding day. The climb to Stag saddle was the first time that I decided to carry my bike on my shoulders instead of pushing it/carrying it wheels down. This made for a pretty quick progress even though I often lost the sight of the path. I reached the saddle with enough daylight left to see the scree section which I needed to cross in order to reach the ridge that would take me down to some huts. After fighting a few tussocks on the way to Rex Simpson hut, the rest of the way to Camp Stream hut was quite straightforward. The hut was occupied, so I added layers of clothes, prepared my sleeping bag, ate some nuts, plugged things to charge, and hid all my stuff in the wood pile outside. Then I went in to see if there's a spare bunk. They pointed to one upper bed, with something hanging from the roof all the way to the mattress. It made some noise as I was getting in and out of the bunk, but didn't matter when I was asleep. This was the only night when I was a bit too warm :). I was asleep around 00:30.
+
+### Wednesday
+
+Luckily for everyone else in the hut, I happened to wake up 5mins before my alarm went off. I grabbed my stuff & left the hut to sort myself out before riding off. It was stream crossings and tussocks for a while before we climbed out of the valley onto a rideable singletrack that got us to the gravel road leading to Tekapo. Once there, I surprised my stomach with some warm food, checked the tracker to find out that Bruce was only 30 kms behind, albeit more tired hopefully, and I bought enough food to double the local Four Square's weekly revenue. I was also visited by 2 dotwatchers on their way to work (or at work? :) ) - thanks! The section out of Tekapo is good for eating on the bike -- flat and straight. Although **very** windy. The gravel singletrack around lake Pukaki goes by very fast too. However, I was definitely not ready for what followed after. The bumpiest double track you can imagine, temperatures well above 35C, and it goes on for 20+km. It ends by passing a fairly creepy campground/caravan park -- semi abandoned caravans with people living in them. This must be an odd section at night. The next thing that followed was a series of climbs in baking sun all the way to Otematata. I was pretty slow over this part even though the climbs had very nice gradients and good enough surface. When I reached Otematata, I took a detour to the shop, resupplied, ate ice creams, drank as much as I could, and trued my front wheel for the last time (I didn't know this then). As I was leaving the shop, two ladies on the side of the road said that they tracked me down to cheer me on - thanks :). As I was climbing out of Otematata, the weather turned a bit and it was foggy and windy within minutes. The valley along Otematata river leading to the Hawkdun range is an easy cycle, but the headwind down there gave me a good glimpse of what was happening up on the top. As I climbed onto the mellow hills on top of the range, it started to rain and later sleet. The wind was still pretty strong, but riding was not too difficult. I didn't study the route well enough to know that the double track goes all the way to the other side. If I had known thta, I would have definitely made it over the whole Hawkdun range that evening/night and slept warmer. However, this way I decided to take one of the huts on the way and sleep there (anticipating tussocks in the morning). I entered the Wire Yards hut around 10pm, set up my sleeping, put on all the clothes I had and went to "sleep". I was a bit too cold, so I kept going in and out of sleep.
+
+### Thursday
+
+Eventually, I packed up and left at around 4am. There was frost on the ground, lots of cloud, and it was snowing. Before too long though, I descended down and the precipitation stopped. The wind stayed which meant that I had a pretty strong headwind until 1-2pm that day. Everything in Oturehua was closed, so I kept going without a resupply. The railway trail and Poolburn plains were quite tedious in the headwind, but life was easy until it started raining around Poolburn. From here it was on and off showers (more on than off!) until some time in the afternoon when I was passing lake Onslow. From lake Onslow one climbs a few easy hills until the first sheep paddock. That's it for good riding. From there it's tire-deep sheep shit between tussocks for a good while. It does end eventually, and a double track takes over. From this point it's a quite pleasant ride all the way to Lawrence. The downhill isn't all downhill, but with the vision of a resupply (my last one was in Otematata) the time passed by relatively quickly. I got to the local Night 'n Day shop by ~8pm, but as I was entering the town, I got the noisiest welcome by a family of dotwatchers! It was kids banging on pots, cheering, etc. Way too cool! I almost regretted only freewheeling in -- being unworthy of their encouragement. We had a good chat as I stuffed my face and then they left me to concentrate on the job. Thanks for coming out, it was good to meet you all. I left Lawrence before sunset and climbed the Breakneck Rd before it got cold. An out-of-saddle climb was the best thing for my raw arse. In the next few kilometers, I stopped a bunch of times to put more and more layers on until I was eventually riding in all my gear. It was especially chilly in the valleys with rivers. Around 11:30pm I started to be very sleepy on the bike and decided to take a 1h nap.
+
+### Friday
+
+I woke up in the daylight and the only thing I remembered was turning off the alarm and checking how my feet & hands were. So here I was with solid 5+hrs of unplanned sleep only 110km of easy riding away from the finish. I couldn't check where everyone else was because I slept at a spot without mobile internet. So I got on the bike and started riding. Unsurprisingly, I felt good and had plenty of energy to enjoy the remaining distance. I got a few dotwatchers waving at me from their driveways and then a couple of them towards the finish. Including Steve's friend Mike who was waiting for him but decided to cheer on me too! The last hill was talked about so much during the briefing and elsewhere that I found it quite enjoyable in comparison. Arriving to Slope Point was very surreal as my partner Fiona & baby Alex were both there, together with family from Invercargill. Quite a contrast to empty cliff that I expected. I didn't have to organize anything, not even look for food. Very pleasant, really... Thanks mob :).
+
+## Gear
+
+### Bike
+
+- Merida Big.Nine XT (2017) without front derailleur (32t at the front, 11-50t at the back)
+- Mavic Crossmax Carbon Elite wheelset (source of many pains) with Schwalbe Racing Ray & Ralph
+- ESI chunky grips
+- Little fender on the front wheel
+- Giro Rumble VR bike shoes
+
+### Electronics
+
+- Exposure Sixpack Mk11 light
+- Wahoo Elemnt (navigation + recording)
+- Garmin Edge 830 (navigation + recording)
+- 20,000mAh battery bank
+- 10,000mAh battery bank
+- Smartphone
+- Exposure TraceR light x2 (rear)
+- Exposure Trace light x2 (front)
+- HR belt
+- Cables (USB to USB-C, USB to micro USB x2)
+- GPS watch (Suunto 9 Baro)
+
+### Sleeping
+
+- Sea-to-Summit Spark I
+- Salewa Rescue bivy
+- Merino socks
+- Down jacket
+- Brynje long pants
+
+### Waterproofs
+
+- Haglofs glove GTX mits
+- Haglofs GTX jacket
+- Salomon Bonatti WP running pants
+
+### Riding clothes
+
+- Bibs & jersey
+- Arm & leg warmers
+- Merino socks
+- Headband (like Buff but only 1 layer)
+- XC skiing gloves (Hestra)
+- Gel MTB gloves
+- Glasses
+
+### Hydration
+
+- 1x 0.5L soft flask
+- 2x 0.5L water bottle
+
+### Bags & packs
+
+- Apidura frame pack (medium size IIRC)
+- Revelate Saddle bag
+- Apidura racing top tube pack (1L)
+- Salomon S/LAB vest 12L
+
+### Food
+
+- Clif chewy blocks (many)
+- Clif bars (6)
+
+### Hygiene etc
+
+- Sunscreen (50spf)
+- Water purifying tablets for 20L
+- Toothpaste
+- Toothbrush
+- Chamois cream
+
+### Repair kit
+
+- tubes (2x)
+- patches (6x), glue, sandpaper
+- self-adhesive patches (4x)
+- multitool with chain breaker & spoke key
+- pliers (with other features like knife, etc.)
+- tire lever (1x)
+- quick links (3x)
+- chain section (6 double links)
+- Dynaplug
+- needle & thread
+- zip ties of diff sizes
+- chain oil + rag
+- pump
+- gorilla tape
+- brake pads (resin, 1.5 pairs), 1x spring, 1x pin
