@@ -7,8 +7,8 @@ permalink: /misc/
 # Computer stuff
 
 * [PermLab](http://www.cs.otago.ac.nz/staffpriv/malbert/permlab.php): a Java package doing various permutation pattern tasks -- very useful for enumeration of permutation classes and other explorations. Written mainly by Michael Albert.
-* [Flagmatic](http://jsliacan.github.com/flagmatic/): a package for flag algebras computations on graphs, 3-regular hypergraphs, digraphs, and multigraphs. Written by Emil Vaughan, updated and modified by me.
-* [Permpack](http://jsliacan.github.com/permpack/): a package for flag algebras computations on permutations that I wrote.
+* [Flagmatic](http://jsliacan.github.io/flagmatic/): a package for flag algebras computations on graphs, 3-regular hypergraphs, digraphs, and multigraphs. Written by Emil Vaughan, updated and modified by me.
+* [Permpack](http://jsliacan.github.io/permpack/): a package for flag algebras computations on permutations that I wrote.
 
 # Running
 
@@ -24,11 +24,11 @@ I like long runs in the mountains, preferably with many technical parts and a lo
 
 **Done**
 * [SRMR](https://silkroadmountainrace.cc) - I wrote a [race report](http://jakubsliacan.eu/srmr/2019/09/03/srmrno2_3.html). 
+* [Tour Te Waipounamu](https://www.tourtewaipounamu.co.nz/) - report [here](http://jakubsliacan.eu/ttw/2022/02/10/ttw.html).
 
 **Maybes**
 * [HT550](https://highlandtrail550.weebly.com/)
 * [AMR](https://atlasmountainrace.cc/)
-* [Tour Te Waipounamu](https://www.tourtewaipounamu.co.nz/)
 * [Hope1000](http://www.hope1000.ch/index.php)
 * [CTR](https://jwookieone.com/colorado-trail-race/)
 * [Tour Divide](https://tourdivide.org/) maybe eventually.
