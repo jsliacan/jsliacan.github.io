@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SRMRno2 pt 3 - race report"
+title:  "SRMR 2019 (3) - race report"
 date:   2019-09-04 00:07:00 +0100
 categories: srmr
 ---

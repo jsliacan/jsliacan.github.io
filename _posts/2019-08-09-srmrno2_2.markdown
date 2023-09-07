@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SRMRno2 pt 2 - training"
+title:  "SRMR 2019 (2) - training"
 date:   2019-08-09 00:10:00 +0100
 categories: srmr
 ---
