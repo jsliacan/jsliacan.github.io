@@ -29,6 +29,8 @@ I got all this wrong a few times and had to ease off to recover a little. Classi
 
 We live in Uppsala - town famous for its mountains... So I had no choice but spend a lot of time on the kickr doing simulations. Quite important was also a month long visit to my parents' place in Slovakia, ending only a few weeks before travelling to KGZ. Adults per child ratio improved (albeit no kindergarten...) so I could train more, and uphill. There, climbing comes easily. I did 7k, 9.5k, 13k, and 17k of elevation during the 4 weeks (being sick the first 1.5wks). And finally, I made sure I climbed on easy dirt roads, rough surfaces, loose rough gravel, hard singletracks, steep stuff, etc. I was riding as much different stuff as I could, as long as it was going up. 
 
+![Climbing]({{site.url}}/assets/SRMR-vert-block.png){:height="605px" width="1008px"}
+
 ### Aero
 
 I did not do almost any riding in an aero position in training. Some riding on the drops on a road bike, but that was it. I regret this now.
