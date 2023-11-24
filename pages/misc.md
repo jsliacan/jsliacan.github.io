@@ -22,13 +22,7 @@ I like long runs in the mountains, preferably with many technical parts and a lo
 
 # Cycling
 
-**Done**
-* [SRMR](https://silkroadmountainrace.cc) - I wrote a [race report](http://jakubsliacan.eu/srmr/2019/09/03/srmrno2_3.html). 
-* [Tour Te Waipounamu](https://www.tourtewaipounamu.co.nz/) - report [here](http://jakubsliacan.eu/ttw/2022/02/10/ttw.html).
+* [SRMR 2019](https://silkroadmountainrace.cc) - [race report](http://jakubsliacan.eu/srmr/2019/09/03/srmrno2_3.html). 
+* [Tour Te Waipounamu](https://www.tourtewaipounamu.co.nz/) - [race report](http://jakubsliacan.eu/ttw/2022/02/10/ttw.html).
+* [SRMR 2023](https://silkroadmountainrace.cc) - [race report](https://jakubsliacan.eu/srmr/2023/11/23/srmr23-report.html).
 
-**Maybes**
-* [HT550](https://highlandtrail550.weebly.com/)
-* [AMR](https://atlasmountainrace.cc/)
-* [Hope1000](http://www.hope1000.ch/index.php)
-* [CTR](https://jwookieone.com/colorado-trail-race/)
-* [Tour Divide](https://tourdivide.org/) maybe eventually.
