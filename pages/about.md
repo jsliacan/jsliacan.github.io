@@ -1,8 +1,12 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: About
+permalink: /about/
 ---
+Public key:
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCySTzEGZM9lIpFfk4aryZfJJW+vxFGIF7rywV5P6wTndMlVhsdBPhJ9kuLHK7Jzff6xjKAknauJ/0x0PH8EEEYFJ9K7t0cIZYMunnPn5fQLLr7lZwefwqdiV5Q1psdM10wbs173hfkBrJKp4Jyo4rhQG3zcdXaSrMi2f5dxG5w7JBju5gzrdJeRGRUY/wHVjUUgYcRYiH8dkcKH26KZftn8MFXNf8ddKWyU9J6QZWPKbFZxSgr32Sva8vdLBmS9X4e7iygBeZggwXR/JCt7FjSGtaKsl4LLMZ6VAw4DjN80LGRFUElpim5wiq0ef1XZ3e7KMdcb6hYw43N7CkDoPC766SxdY5YNM8f3XHUT7S6vKaIE3Mr1s9alU2KettgGdiQM7yp+hnG06YvujhJmWd8BJ11Ad+/kdivVW0j0/M/oJ5iooH0q8q1cbrySZ9RQTnSC0v5ZUiJbU/i+yBfrqxgtNpKkaYJv/CDas8Q+i5trQcDlfXDXZFKIIVPpp3CQH22cgZlwK8tidLvp15gtPpXCp2IAGRKOU0HxSK1MIJtQsOPlyQB4bvcvj8J+fA9/p79cQztMdRueyL2BN1iaa+c0LoGduiHuP7QSjMO1J+tm6hS90/uhTR3BYxgRHQL8sJlxwNL9L5PsCeUk+oyk3RUq81Za2Rvj7DQ9nBlnV0xaw== jakub.sliacan@gmail.com
+```
 Before coming to VTI, I worked as a software quality engineer at Red Hat. Prior to that, I was a postdoc at Umeå University working with <a href="http://abel.math.umu.se/~klasm/">Klas Markström</a>. I did my PhD in enumerative combinatorics at The Open University (2015--2018). A draft of my <a href="https://github.com/jsliacan/thesis">thesis is here</a>. My supervisor was <a href="http://users.mct.open.ac.uk/rb8599/"> Robert Brignall</a>. Before The Open University, I did masters by research at [Warwick](http://www2.warwick.ac.uk/fac/sci/maths/) with [Oleg Pikhurko](http://homepages.warwick.ac.uk/~maskat/). My work was mostly based on flag algebra method (see the [paper](https://arxiv.org/abs/1706.02612)). Before that, I spent the first half of 2013 in South Korea as an assistant engineer in Samsung Electronics. At the end of 2012, I spent 3 months at the [Max-Planck Institute for Informatics](https://www.mpi-inf.mpg.de/departments/algorithms-complexity/) with [Benjamin Doerr](http://people.mpi-inf.mpg.de/~doerr/), [Karl Bringmann](https://people.mpi-inf.mpg.de/~kbringma/), and [Adrian Neumann](https://people.mpi-inf.mpg.de/~aneumann/) looking into optimal online checkpointing (see the [paper](https://arxiv.org/abs/1302.4216)). In 2012, I did an MSc in Applicable Maths at the [LSE](http://www.lse.ac.uk/maths/home.aspx), with a thesis on flag algebras (supervised by [Jozef Skokan](http://www.maths.lse.ac.uk/personal/jozef/)). I did my undergraduate degree in Maths at [Jacobs University](http://math.jacobs-university.de/) in Bremen.
 
 During my time at Jacobs, I did various projects at various places. The one at [CREEM](http://creem2.st-andrews.ac.uk/) with [Steve Buckland](http://steve7397.wix.com/personal) on estimating population abundance of cryptic animal species (rodents!) was definitely the most fun of them all. I also visited [Max-Planck Institute for Mathematics](https://www.mpim-bonn.mpg.de/) in Bonn, where I looked at the patterns in coefficients of certain classes of cyclotomic polynomials (supervised by [Pieter Moree](http://people.mpim-bonn.mpg.de/moree/)). 
